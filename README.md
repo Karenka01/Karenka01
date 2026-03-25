@@ -1,7 +1,7 @@
 <h1>Hello There! I am Ana Escobar</h1>
 
 <h1><img src="images/left.png" width=33>Reach Out!<img src="images/right.png" width=33><h1/>
-<a href="mailto:escobar.anakaren01@gmail.com" target="_blank">escobar.anakaren01@gmail.com</a>
+<a href="mailto:escobar.anakaren01@gmail.com" target="__blank" >escobar.anakaren01@gmail.com</a>
 <h1><img src="images/left.png" width=33>Portfolio<img src="images/right.png" width=33></h1>
 <a href="#">Portfolio Site</a>
 <h1><img src="images/left.png" width=33>Languages<img src="images/right.png" width=33></h1>
